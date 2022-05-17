@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/Lp99CaR.png" width="100"/> 
 
-# PascalVOC Predictions Sample (Masks)
+# PascalVOC Predictions Masks (Sample)
 
 <p align="center">
 
