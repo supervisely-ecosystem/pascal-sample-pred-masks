@@ -1,0 +1,64 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 333
+    },
+    "objects": [
+        {
+            "id": 58749091,
+            "classId": 152407,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "grass",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBg9AXiL4zMQJHm32+tgBRbgE+IK5D+////0pvz7wJZjCVBfsEMDs9upAHZVp4ujiEVc95eNcxrMRBofegoUvJauUCkj211TI/e9QW3p+XpHj1kuCT62KXJSkKaP5fPYKpvkqzcoLtakJer1WlhgIYIgvovGNvkszbwZZpZh8ms1jueJabZ57hNs7q/csXm9F/nirGS3xL6ooRzq/aLMtHctN5lh8Rmllnxrt62MZXtdzKfqtWSgtesUXZ28+aHvch2D921Q7/05Zv5vHJz98TfXr6vZOXtKd7mc9XmHjPL13pbJGO6q6wyNPNEoM6COYfltd7avrhUOeGlyaktZc8tthjp3l+Sb7X3veZXo14h26y5qrdefck4fTO2fd/7lT3THeTZbWM3ytW+0/T8or2EKYsR4oFfwV9+3t4iheIjnNSv8Jfq2pOk2cPPXgkBBimDp6ufyzqnhCYATxqiWQ==",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 58749090,
+            "classId": 152392,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "person",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKMQMzMyAwkM4S/HwRSbAE+Ia5A+v///0tvzr8LUlIS5BfM4PDsRhqQw+Pp4hhSMSc5I4HBiYGljbFRduZ0caA4g6ern8s6p4QmAGAlGSg=",
+                "origin": [
+                    132,
+                    227
+                ]
+            }
+        },
+        {
+            "id": 58749089,
+            "classId": 152517,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "animal",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJuQGzEyAwkbwfbCwAptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcrZ4ujiGVMzJPW/I12zA0/pQPFDz7qayx1J3iwxDqrbIHHX32M7DYW64bWWI0QJ/lkf2DAbhLx7FCs44vfBEzMU2oc9ykUeNL/+YelzqduSW0rXij+pbs99Gmnx9npO1blZKVL8Sp7RW8N8JLnv7n6g0K1T+WvX8pmz4bmWZDe8FYyZr53GsaquQmSE1aZXSqw1ds7ve3I+pWTP1gHcdk5/uuukpEzQn1U4/Ocm1u78mS+DDBY8HestN7Le+r2PU7Jj4jluJ7xrQ/Qyern4u65wSmgDaAWwR",
+                "origin": [
+                    136,
+                    126
+                ]
+            }
+        }
+    ]
+}

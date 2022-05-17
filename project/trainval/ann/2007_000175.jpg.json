@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 332,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 58743488,
+            "classId": 152402,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "tree",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLKQCzHyAwk53w2zQRSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5Ph4ujiGVMxJTkhkYKxU8EtYkZ6QUHfgw/6P/+sVKiV87Ngn/3dMsRXK7Hc5pTzxT4VnylSBvWYJQkcclZ8eVFGewXLrPoPK6/8NMad+NDIyBIemBjEU/vcHmsvg6ernss4poQkAqIM3vA==",
+                "origin": [
+                    297,
+                    236
+                ]
+            }
+        },
+        {
+            "id": 58743487,
+            "classId": 152407,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "grass",
+            "bitmap": {
+                "data": "eJwBZQWa+olQTkcNChoKAAAADUlIRFIAAAH0AAABTAEDAAAAB4Hc0QAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAUNSURBVHic7dtPrrM2EABwKJXY1dsuKrnH6KKST9baVQ/QK/koSL2Al1lEocFgYsyMZ7BfvqitvXhPD/IL/jtjeEk3VxXXNd98880333zz/0nf6Spvu7HGP7oOfxHDu6eXFd4+PdoA2i/V7/pyv1S/61Sxt96LYu852gGkv68e6wDS31aPTUHSu83LQj9tfij0ZvPI60gfODIDKH/fvSjybvdwB1B+2j08Ayhvdw/PAMqbl5ewF1n/4vALHTYx1vKIPPhCl4lt82v2ox3o8NCwnc53gMNDw1Km2EMtcOjK8MUe/BJFHvpUwYzv0iKTZOKwieHL4+SXohIvUX8Hfdxg1yGx0XfsDfRxhR3crWvHywn28uiBDoQbDjTAJfXZisn6LvEy5Ui796KOXqTeEl4cfdqB8LBFZTj6dGVRl4+A98kA5DvfF330+uAn2qujPwwA2fqzPwwA4/KvC67+sAIYPPXxAFJzB6p/PICc6qf9H3sOfw24S/5m9f5p/kQTwHH8kL587w967i5lxL3heJn6/QBj7kNeXOq+NH5EnjV70vgVdYjj8P7k9wGZOH7EveV4cfJ7jTj8lD9enjd86uRDj/KGT5+9Lhu+3asLw5fm78hbjleA37rUMPhp/xL5q5ffveAP3wz5kT18IuPzw/f98iPJ1UfvUOuv7M6pOoiB4eVzeHTWT1mvZidmxK/1soS/pzzxhvDnEvw6qlkO7pMPnpg+Wb+cJKYP6YnVn/VqJlc/6ae8B/jLy5mMHqQ3FV7MZPSgPBU9KE9Fj6wf6z2VPCjvcMryE+E14W2NH+jko4jrExx7fhA8mXxEzgs6+WS9pPcO0H165B0u1wLdp+9IVfuJ8tADoN3rK3etoDeVnuLgAto9Z+9S63XOM/Y+Gd9ztq4q510GcvxEe5nztsoPnK2veJ8fOVvnnOdsnYEAErzgbJ3f6CXnzgl+frt6l3EMr6Zv4IEAFLy2dZ733OONnsNx3/Nu3PW7/HD1uc0X+5H34AD1gucl5sPyEbbMq/A+hV6H95myXmA+ZA8ii2A+ZB8qC+He+t8DkQXPAdBtzm7ny/y4LV/KnwOY29pltt/5eYR5uS3/Uq+Y/hwAVx82b5LYBb3Lh82bKvN98JrYBaL+XuWH0O3F3vH8OQF4OIZlV+xt8EQegr0IXhX4aZk2Ff5p1bb8fpYl/rbe+/Sl/rFO/777riO9Bvy8PnnpTbm/vbwp8e55ajA+PBZ56/0vYqYeYiB+uehofptJr2Dfee8PTAXeL5rxjzov/i72PvrIcOC6v0WnSrw3muMl6E2dX2PWXOzvfA+2//YVvi/3Lm5Z6fVrfTiT30DgXrO8xvyeGfM+5bsfWB7aP63zR4QD2Q0ItH9c56+q8HPcsBIffyYquwGA2//8IV9HzHV/h/6jCxVo/7PU+XD8up+Hr/SZDsD8yPRI/1X7v5gemT/HkvGizoPPr/5FHnx+9eXeNv9R7z7s8Qz2f/e89Ytn0FovKr1ieTyDnznk0QQIVB/0BvGa6S3Mkc+vsz3y+Xm2F1w/fdjX1r/5z/rpw951P1T5WydNjX/eDqRN6M0F/zj/M3x5Q7b3VTj8S0vMF/18+DxNP1/2TkfjKP2m4JL3xe6XX4L6dX+PBs7A3xPKel+BH9e4b0u+v/VM5T/9usVt+BuEef9stfpd5F5AeJf5chDHz3/mT5OeKs0333zzzTfffPPNN99888033/w38P8AdNkTZJ3b+6kAAAAASUVORK5CYILX++tT",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 58743486,
+            "classId": 152428,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "rock",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLKQMzPyAwkQyqfhAMptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcow8XRxDKuYkJzA0MSs0CTrZMUw846Fi3cJy+lOz5082tgURtsyH2QX4vf4xTBZNuMTkwsBgqsKjwx6V8hKom8HT1c9lnVNCEwBeCCXR",
+                "origin": [
+                    324,
+                    207
+                ]
+            }
+        },
+        {
+            "id": 58743485,
+            "classId": 152517,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "animal",
+            "bitmap": {
+                "data": "eJwB/wQA+4lQTkcNChoKAAAADUlIRFIAAAGrAAAA7QEDAAAAO6nI6wAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAASnSURBVHic7dtNrtwoEABgWr3oTTRcYDQ+CleaA4xiZk6GNItZzhEGaRbZkp2lOCY2BjfgMlVFOk9KFBYtPb/+Hj9VBtzNEwIvXhPedCrKTx3q5r3vYHJlls/Uyvit3NroFzbb2ui94TIVmOOyoNidu++M27nHzriJIiOzPDZENvPYGBkzv5LiRe5+MMdh8mCszg0HY0VOHYwVufHJbPEL12RPVY1Js6u3jJVvbMbxkbFyTJpxlBkrO9eM45CzopnNOKqCbTfrTUfW6pyvi01zbSuOtxPbitmZvWR3kM07A6cXucX3AbLQPDi3wxDaAWZ27zW1U3krPTQmY5P5nZ3G5KJPRzGBuZophLnA6jGBx73snD/f71hlG4hdJA9jKFrsr6eYtYsJrBhKtGcHc8zK1nq21yIrCSqyPAJYqLNGLsw2xpFcmG308W28cUzhzgInKWyOzNATayvTiY0UZiM70oSQjxk70oQ0IvE2zRgp2D7F6cguSVFLYkd2DRQ2nZiiMJfYkV0UlabXJ6ONvzn+Pmv89cE0c/zFs15GIldMUZh5MktP5LQIZ4xcWXyno49/XsFEHn93Zu3x/7S9pDTMmWzXI09ZOBOYXQdaQ2xoMiOkEyVbCNE24i5ANiJM1MwToq0vGBJtiGk82lcMudsgZtCwXbKhzQTALBq2SzbymUPDdsWwm/SCYTcpxKZuhs2tF0z2sQFhUJZM+JQMsRmfkg1cG6Kqx77E0CnZgeFGp2SIWXxJhPa4Fl8SZ4CZXjZgbAGYJj2iAGzsY5gqczldIizAnUwDjLBun9lC2TcZgMk+NuDMAkz1sJmy3XKvYhNllwYwyi5tOjFH2aW9jFnK5no+M9nFzPDt2PmBWasuRnsmfRmjqBNbaE9g+jVsJj84v4JNtOe9mjkasxVLmewUi5nILI/pyJCMdhVLkysyyVYszcnY3HxiKlyekZVgKtkc2cRjU7xvMDaXzEV2+UkyzOzxGM1ihsiWkqXdhUVW8NewtLswLLYkppHdSc3uPWxOA8hlksZ8waaU+FymEkNm54K5xAydDVuU+WwlJt4A/1kGe+z75IXJbntKLv6zR5kWopArG9ns8WQjg8n1yjyGGYbDVGD/OIE9aZZsq2Ia/xIoMwXzgaXoU1nI3+l9F3O/clm4t+1zUInskV1hsPBWTWG2Hn8+2ycCwWV3Osv79vgKtrCZzFvNrK2TmfwHOtMkpiu2CBITFZtJrPgMYwu3y3+4LMUHLbe8r3Qm8kYzWH6EqrnAuYLJPLPHBrMFu+fxkGR2gz53gYopWHnqo5M1OqdLNn1bVirxO401D+tcsI/Ioa4L5t6WjV1sGtvHni7YjDAFM48csvrJTkW+Kbuezn9k1rxxrhcPNvscXh2Xrbe2/7d9FhJaqszoF4mcvASYViL/ZhcsI8B+W5luMwWwd0L80lYgWy+/4zODkK0ML2OWwIBGdjL3poxyyvm7YMPLmCMwuW0m+Ozh7VgxS2Dr9rJuJ4Xdzl9YaQILFRafhzuaEqL4apl+nnqbb44OWjILRXEr28ud2bO8ug/8/+pY16z//2Yeut/KOmf96fhM9v3fifjj4voXV9PWwdMAi4AAAAAASUVORK5CYIKwcmi9",
+                "origin": [
+                    0,
+                    32
+                ]
+            }
+        }
+    ]
+}

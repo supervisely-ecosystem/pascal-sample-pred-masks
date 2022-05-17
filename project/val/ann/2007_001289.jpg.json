@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 309,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 58748435,
+            "classId": 152392,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "person",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJSQCzMyAwkt3T3uwIptgCfEBD9////pTfn3wWyGEuC/IIZHJ7dSANy7D1dHEMq5oQe38jboMDgcjE/9SRH3yGvPIXFhkKqrA/3ZPvo/PO2Eynlm2k8pf+1/9RZNz9kNJk48c8QdctQO/42jiNbu0htGk8+0CgGT1c/l3VOCU0AhjEv+w==",
+                "origin": [
+                    165,
+                    168
+                ]
+            }
+        },
+        {
+            "id": 58748434,
+            "classId": 152410,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "earth",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtISQCzKyAwk09T3pAIptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcuQ8XRxDKuYk//j/3775739mnidMZgrP2pPsFJ4lJjAwTDrHanXI5q4MUCWDp6ufyzqnhCYACr8jzQ==",
+                "origin": [
+                    57,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 58748433,
+            "classId": 152416,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "water",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBg/ALEpozMQBHtNQ03gBRbgE+IK5D+////0pvz7wJZjCVBfsEMDs9upAE5bzxdHEMq5ry95eh1xEGA9YKQuJ6tU9+ji5MW95pflE6Z2Wgw04Brs+GFZ9yBNfVXZ7O7mu9dsW7dU2Xn0P019sm1evdW3T74vi69Yt5/Rvv2ulf833b/uDvfeb+xzfnPyOjP/E/Lr2XeuP4v6OuMHytfKX58fNBu7f9Lc5X2hwn8svzi/Sre+b/cr2OVp/T37odq+r/+z4Sv8snX9q/9W/ysvbn2xn65t5e/t1+1V69bV+X558qfmZWnzfPuL6vnqhX/Zfe5d/n+l7vPnK99dvvwZzTLIci8nlX7YfYmX96INqC/GTxd/VzWOSU0AQAanqKL",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 58748432,
+            "classId": 152517,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "animal",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLSIDYjM5BMmto+AUixBfiEuALp////L705/y6QxVgS5BfM4PDsRhqQY+Tp4hhSMSc54d///kbHf///M/N8/f/fPuEHv/qBGMs0hYMHAviV3jiy2HcksAn2KDQpMjK4dEk9Vja8cAqom8HT1c9lnVNCEwCunSyh",
+                "origin": [
+                    164,
+                    109
+                ]
+            }
+        }
+    ]
+}

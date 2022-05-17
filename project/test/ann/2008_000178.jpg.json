@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 357,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 58746469,
+            "classId": 152400,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "sky",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBg/ALEqYzMQBF1pQ59IMUW4BPiCqT///+/9Ob8u0AWY0mQXzCDw7MbaUD2LE8Xx5CKOW+vWxc1G4i0Pjy9w+OkUATXbS9272RNncZJTYaGEjkqIt3Nn2adWX+s9eex76qKt2dssTr8+GOFjVz/8cf/u+XvXaqZvvTnNa2j/P8u907tev/neLa2yfun2bPen+U+oBP+J+HZlM9ZYtkLov/fYt2Uf7bzh9h510/BTLPnT/lb+um82om6OX8Xc+598/rm+hdr4pcvM69fwFcVvT+kdvMP70X70xf8Nq2bbV43+8FmF/vehe9yN39aKRX1//fa80J7n259ZX08fdmva3+W/nw2vfbvU7tvVWV/5x3nSzgez2wndODd343RT8//tDugLF3w+vV3W/24z2v5w9Z7fT71V/3J0t/hB47veCxtWX29fF7fW9n7/Vbf38dr1Rvun/puu2xPmd6T7uX6/j/dORc1i39y/ijR1Pzw/d8itnnfmy/snbB/+oOSf4+DmoL37an3ex4x8cFzqRDOulUHN/LVPMoXFFGvKT1RM3/6T/n//3uPw0KKFOqP43/GBw7npBS/N1kDo4zB09XPZZ1TQhMAsmYBdQ==",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 58746468,
+            "classId": 152482,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "airplane",
+            "bitmap": {
+                "data": "eJwBWwGk/olQTkcNChoKAAAADUlIRFIAAACzAAAAPAEDAAAAFzwZvQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEDSURBVHicjdTLDcMgDAbgRDn0mBEySkYjoyF1kYzAMQfEXwIEDLbV+FR9kp+0nSYWs+d2xweyr7ApzQ6+4cxpZ+87XPahnsm+YEgwuFJ9AAd1wJd68JKvMeFqHPPD84FmVJ+QgrtJ/gy1VN+TB8XzNsnRedniU30rHhSv9xrqIB1+FRyae+qmeTzU9gywgIbm104HJmEeXzFG6Nd66ftrz5c13H17XpYwS37qvkgep/lydUpXq7gypVe2OuSrWelV6td0KFS5T2jc38E2p5N2vz/XOpydtxaUZ1eX8KOXN+Y+j1MWLy245xYH9TLc/Z5O8NTDCn738JLHDFKI/R/+80PSH+5+o9PGQVaeAAAAAElFTkSuQmCCipab2A==",
+                "origin": [
+                    79,
+                    44
+                ]
+            }
+        }
+    ]
+}

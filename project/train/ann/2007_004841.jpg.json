@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 58750327,
+            "classId": 152400,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "sky",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBg/ALE5YzMQJFMG+39QIotwCfEFUj///9/6c35d4EsxpIgv2AGh2c30oBsL08Xx5CKOW9vbsw9bCDQ+pCb58ZStw9SL7eEWWWalMc1K29QEYjqWmGUcvCxdo+CvTXnj5Il7zqEXW4vFeTtP/74Y4WNHDr1P/j/lT9ll2uqNvcv4s//9nrRT609l88vWs+OrvL7r1/2808/7362+EXzi/DCv2aedrdjPwV+vpkj9lfpV969b/KT/K/F222tzzv56/Tyb6+nW55a/vCszMv8365f/u75xv95yfqXsi+zq9x/zaoL+qNVpf1P9ZfKz9kP+q+XP7Hn+x1Ut439aP2tPxLfjv8x3/3tfcOt+D7LL+8bqv5d/tlTuP/NwY3MdT/XtvQ9/qs//YLTfy/VLQ+SM2sL9/yfO/2rZuF2e/4Vh2tvPN955/Xzs+/b8y9Ws2H4FEH9mf/dfhlfpKZjpOgKYBAzeLr6uaxzSmgCAA1i14s=",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 58750326,
+            "classId": 152482,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "airplane",
+            "bitmap": {
+                "data": "eJwBOwHE/olQTkcNChoKAAAADUlIRFIAAAEBAAAAgQEDAAAA+uWd0gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADjSURBVHic7dixDcMgEAVQEAVNJGcDZ5BIZKRsAJt4FUbxCJQUKBeOPv8rksv7hRs/7PMBErJzOKEQ4HYq8gVCmPAXiNhZGRt7hLsxYLFYLBaLxWKx/B1+Dk2VCWHCUxHpkXoTVkb6MCFMJBlUsKN9kkbFSUTGDQvlnnHDYs+CGxZFSDtU4I9V0aAIU5xUVCoKFRCsSrHYlnhQ8SaiIKGFzn6030ILleaxGHkEIOZb2i4HFjXCmZl3l0Kiz42NZmbX4bDvSYfDZZh1OBRry8J9u9YoXEL628DD3fDUS0Ni5QXufQF2CYhfWkzJZAAAAABJRU5ErkJggm2Mfow=",
+                "origin": [
+                    108,
+                    113
+                ]
+            }
+        }
+    ]
+}

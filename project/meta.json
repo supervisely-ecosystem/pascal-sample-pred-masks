@@ -1,0 +1,1310 @@
+{
+    "classes": [
+        {
+            "title": "aeroplane",
+            "shape": "bitmap",
+            "color": "#800000",
+            "geometry_config": {},
+            "id": 152377,
+            "hotkey": ""
+        },
+        {
+            "title": "airplane",
+            "shape": "bitmap",
+            "color": "#00FF52",
+            "geometry_config": {},
+            "id": 152482,
+            "hotkey": ""
+        },
+        {
+            "title": "animal",
+            "shape": "bitmap",
+            "color": "#FF007A",
+            "geometry_config": {},
+            "id": 152517,
+            "hotkey": ""
+        },
+        {
+            "title": "apparel",
+            "shape": "bitmap",
+            "color": "#0070FF",
+            "geometry_config": {},
+            "id": 152484,
+            "hotkey": ""
+        },
+        {
+            "title": "arcade machine",
+            "shape": "bitmap",
+            "color": "#FF5C00",
+            "geometry_config": {},
+            "id": 152471,
+            "hotkey": ""
+        },
+        {
+            "title": "armchair",
+            "shape": "bitmap",
+            "color": "#08FFD6",
+            "geometry_config": {},
+            "id": 152424,
+            "hotkey": ""
+        },
+        {
+            "title": "ashcan",
+            "shape": "bitmap",
+            "color": "#AD00FF",
+            "geometry_config": {},
+            "id": 152528,
+            "hotkey": ""
+        },
+        {
+            "title": "awning",
+            "shape": "bitmap",
+            "color": "#00FF3D",
+            "geometry_config": {},
+            "id": 152478,
+            "hotkey": ""
+        },
+        {
+            "title": "bag",
+            "shape": "bitmap",
+            "color": "#46B8A0",
+            "geometry_config": {},
+            "id": 152506,
+            "hotkey": ""
+        },
+        {
+            "title": "ball",
+            "shape": "bitmap",
+            "color": "#FF00A3",
+            "geometry_config": {},
+            "id": 152510,
+            "hotkey": ""
+        },
+        {
+            "title": "bannister",
+            "shape": "bitmap",
+            "color": "#007AFF",
+            "geometry_config": {},
+            "id": 152487,
+            "hotkey": ""
+        },
+        {
+            "title": "bar",
+            "shape": "bitmap",
+            "color": "#00FF99",
+            "geometry_config": {},
+            "id": 152470,
+            "hotkey": ""
+        },
+        {
+            "title": "barrel",
+            "shape": "bitmap",
+            "color": "#FF0070",
+            "geometry_config": {},
+            "id": 152502,
+            "hotkey": ""
+        },
+        {
+            "title": "base",
+            "shape": "bitmap",
+            "color": "#FF7A08",
+            "geometry_config": {},
+            "id": 152434,
+            "hotkey": ""
+        },
+        {
+            "title": "basket",
+            "shape": "bitmap",
+            "color": "#5CFF00",
+            "geometry_config": {},
+            "id": 152503,
+            "hotkey": ""
+        },
+        {
+            "title": "bathtub",
+            "shape": "bitmap",
+            "color": "#6608FF",
+            "geometry_config": {},
+            "id": 152431,
+            "hotkey": ""
+        },
+        {
+            "title": "bed ",
+            "shape": "bitmap",
+            "color": "#CC05FF",
+            "geometry_config": {},
+            "id": 152405,
+            "hotkey": ""
+        },
+        {
+            "title": "bench",
+            "shape": "bitmap",
+            "color": "#C2FF00",
+            "geometry_config": {},
+            "id": 152463,
+            "hotkey": ""
+        },
+        {
+            "title": "bicycle",
+            "shape": "bitmap",
+            "color": "#008000",
+            "geometry_config": {},
+            "id": 152378,
+            "hotkey": ""
+        },
+        {
+            "title": "bird",
+            "shape": "bitmap",
+            "color": "#808000",
+            "geometry_config": {},
+            "id": 152379,
+            "hotkey": ""
+        },
+        {
+            "title": "blanket",
+            "shape": "bitmap",
+            "color": "#1400FF",
+            "geometry_config": {},
+            "id": 152521,
+            "hotkey": ""
+        },
+        {
+            "title": "blind",
+            "shape": "bitmap",
+            "color": "#003DFF",
+            "geometry_config": {},
+            "id": 152457,
+            "hotkey": ""
+        },
+        {
+            "title": "boat",
+            "shape": "bitmap",
+            "color": "#000080",
+            "geometry_config": {},
+            "id": 152380,
+            "hotkey": ""
+        },
+        {
+            "title": "book",
+            "shape": "bitmap",
+            "color": "#FFA300",
+            "geometry_config": {},
+            "id": 152461,
+            "hotkey": ""
+        },
+        {
+            "title": "bookcase",
+            "shape": "bitmap",
+            "color": "#00FFF5",
+            "geometry_config": {},
+            "id": 152456,
+            "hotkey": ""
+        },
+        {
+            "title": "booth",
+            "shape": "bitmap",
+            "color": "#FF00CC",
+            "geometry_config": {},
+            "id": 152480,
+            "hotkey": ""
+        },
+        {
+            "title": "bottle",
+            "shape": "bitmap",
+            "color": "#800080",
+            "geometry_config": {},
+            "id": 152381,
+            "hotkey": ""
+        },
+        {
+            "title": "box",
+            "shape": "bitmap",
+            "color": "#00FF14",
+            "geometry_config": {},
+            "id": 152435,
+            "hotkey": ""
+        },
+        {
+            "title": "bridge",
+            "shape": "bitmap",
+            "color": "#FF5200",
+            "geometry_config": {},
+            "id": 152455,
+            "hotkey": ""
+        },
+        {
+            "title": "buffet",
+            "shape": "bitmap",
+            "color": "#FF7000",
+            "geometry_config": {},
+            "id": 152490,
+            "hotkey": ""
+        },
+        {
+            "title": "building",
+            "shape": "bitmap",
+            "color": "#B47878",
+            "geometry_config": {},
+            "id": 152399,
+            "hotkey": ""
+        },
+        {
+            "title": "bulletin board",
+            "shape": "bitmap",
+            "color": "#B8FF00",
+            "geometry_config": {},
+            "id": 152534,
+            "hotkey": ""
+        },
+        {
+            "title": "bus",
+            "shape": "bitmap",
+            "color": "#008080",
+            "geometry_config": {},
+            "id": 152382,
+            "hotkey": ""
+        },
+        {
+            "title": "cabinet",
+            "shape": "bitmap",
+            "color": "#E005FF",
+            "geometry_config": {},
+            "id": 152408,
+            "hotkey": ""
+        },
+        {
+            "title": "canopy",
+            "shape": "bitmap",
+            "color": "#00FF5C",
+            "geometry_config": {},
+            "id": 152497,
+            "hotkey": ""
+        },
+        {
+            "title": "car",
+            "shape": "bitmap",
+            "color": "#808080",
+            "geometry_config": {},
+            "id": 152383,
+            "hotkey": ""
+        },
+        {
+            "title": "case",
+            "shape": "bitmap",
+            "color": "#0000FF",
+            "geometry_config": {},
+            "id": 152449,
+            "hotkey": ""
+        },
+        {
+            "title": "cat",
+            "shape": "bitmap",
+            "color": "#400000",
+            "geometry_config": {},
+            "id": 152384,
+            "hotkey": ""
+        },
+        {
+            "title": "ceiling",
+            "shape": "bitmap",
+            "color": "#787850",
+            "geometry_config": {},
+            "id": 152403,
+            "hotkey": ""
+        },
+        {
+            "title": "chair",
+            "shape": "bitmap",
+            "color": "#C00000",
+            "geometry_config": {},
+            "id": 152385,
+            "hotkey": ""
+        },
+        {
+            "title": "chandelier",
+            "shape": "bitmap",
+            "color": "#001FFF",
+            "geometry_config": {},
+            "id": 152477,
+            "hotkey": ""
+        },
+        {
+            "title": "chest of drawers",
+            "shape": "bitmap",
+            "color": "#0633FF",
+            "geometry_config": {},
+            "id": 152438,
+            "hotkey": ""
+        },
+        {
+            "title": "clock",
+            "shape": "bitmap",
+            "color": "#66FF00",
+            "geometry_config": {},
+            "id": 152538,
+            "hotkey": ""
+        },
+        {
+            "title": "coffee table",
+            "shape": "bitmap",
+            "color": "#00FF70",
+            "geometry_config": {},
+            "id": 152458,
+            "hotkey": ""
+        },
+        {
+            "title": "column",
+            "shape": "bitmap",
+            "color": "#FF0829",
+            "geometry_config": {},
+            "id": 152436,
+            "hotkey": ""
+        },
+        {
+            "title": "computer",
+            "shape": "bitmap",
+            "color": "#00FFAD",
+            "geometry_config": {},
+            "id": 152468,
+            "hotkey": ""
+        },
+        {
+            "title": "conveyer belt",
+            "shape": "bitmap",
+            "color": "#8500FF",
+            "geometry_config": {},
+            "id": 152496,
+            "hotkey": ""
+        },
+        {
+            "title": "counter",
+            "shape": "bitmap",
+            "color": "#EB0CFF",
+            "geometry_config": {},
+            "id": 152439,
+            "hotkey": ""
+        },
+        {
+            "title": "countertop",
+            "shape": "bitmap",
+            "color": "#008FFF",
+            "geometry_config": {},
+            "id": 152464,
+            "hotkey": ""
+        },
+        {
+            "title": "cow",
+            "shape": "bitmap",
+            "color": "#408000",
+            "geometry_config": {},
+            "id": 152386,
+            "hotkey": ""
+        },
+        {
+            "title": "cradle",
+            "shape": "bitmap",
+            "color": "#9900FF",
+            "geometry_config": {},
+            "id": 152508,
+            "hotkey": ""
+        },
+        {
+            "title": "crt screen",
+            "shape": "bitmap",
+            "color": "#7A00FF",
+            "geometry_config": {},
+            "id": 152531,
+            "hotkey": ""
+        },
+        {
+            "title": "curtain",
+            "shape": "bitmap",
+            "color": "#FF3307",
+            "geometry_config": {},
+            "id": 152415,
+            "hotkey": ""
+        },
+        {
+            "title": "cushion",
+            "shape": "bitmap",
+            "color": "#FFC207",
+            "geometry_config": {},
+            "id": 152433,
+            "hotkey": ""
+        },
+        {
+            "title": "desk",
+            "shape": "bitmap",
+            "color": "#0AFF47",
+            "geometry_config": {},
+            "id": 152427,
+            "hotkey": ""
+        },
+        {
+            "title": "diningtable",
+            "shape": "bitmap",
+            "color": "#C08000",
+            "geometry_config": {},
+            "id": 152387,
+            "hotkey": ""
+        },
+        {
+            "title": "dirt track",
+            "shape": "bitmap",
+            "color": "#000AFF",
+            "geometry_config": {},
+            "id": 152483,
+            "hotkey": ""
+        },
+        {
+            "title": "dishwasher",
+            "shape": "bitmap",
+            "color": "#D6FF00",
+            "geometry_config": {},
+            "id": 152519,
+            "hotkey": ""
+        },
+        {
+            "title": "dog",
+            "shape": "bitmap",
+            "color": "#400080",
+            "geometry_config": {},
+            "id": 152388,
+            "hotkey": ""
+        },
+        {
+            "title": "door",
+            "shape": "bitmap",
+            "color": "#08FF33",
+            "geometry_config": {},
+            "id": 152411,
+            "hotkey": ""
+        },
+        {
+            "title": "earth",
+            "shape": "bitmap",
+            "color": "#787846",
+            "geometry_config": {},
+            "id": 152410,
+            "hotkey": ""
+        },
+        {
+            "title": "escalator",
+            "shape": "bitmap",
+            "color": "#00FFA3",
+            "geometry_config": {},
+            "id": 152488,
+            "hotkey": ""
+        },
+        {
+            "title": "fan",
+            "shape": "bitmap",
+            "color": "#00F5FF",
+            "geometry_config": {},
+            "id": 152529,
+            "hotkey": ""
+        },
+        {
+            "title": "fence",
+            "shape": "bitmap",
+            "color": "#FFB806",
+            "geometry_config": {},
+            "id": 152426,
+            "hotkey": ""
+        },
+        {
+            "title": "field",
+            "shape": "bitmap",
+            "color": "#7009FF",
+            "geometry_config": {},
+            "id": 152423,
+            "hotkey": ""
+        },
+        {
+            "title": "fireplace",
+            "shape": "bitmap",
+            "color": "#FA0A0F",
+            "geometry_config": {},
+            "id": 152443,
+            "hotkey": ""
+        },
+        {
+            "title": "flag",
+            "shape": "bitmap",
+            "color": "#5C00FF",
+            "geometry_config": {},
+            "id": 152539,
+            "hotkey": ""
+        },
+        {
+            "title": "floor",
+            "shape": "bitmap",
+            "color": "#503232",
+            "geometry_config": {},
+            "id": 152401,
+            "hotkey": ""
+        },
+        {
+            "title": "flower",
+            "shape": "bitmap",
+            "color": "#FF0000",
+            "geometry_config": {},
+            "id": 152460,
+            "hotkey": ""
+        },
+        {
+            "title": "food",
+            "shape": "bitmap",
+            "color": "#FFCC00",
+            "geometry_config": {},
+            "id": 152511,
+            "hotkey": ""
+        },
+        {
+            "title": "fountain",
+            "shape": "bitmap",
+            "color": "#08B8AA",
+            "geometry_config": {},
+            "id": 152495,
+            "hotkey": ""
+        },
+        {
+            "title": "glass",
+            "shape": "bitmap",
+            "color": "#19C2C2",
+            "geometry_config": {},
+            "id": 152537,
+            "hotkey": ""
+        },
+        {
+            "title": "grandstand",
+            "shape": "bitmap",
+            "color": "#1FFF00",
+            "geometry_config": {},
+            "id": 152445,
+            "hotkey": ""
+        },
+        {
+            "title": "grass",
+            "shape": "bitmap",
+            "color": "#04FA07",
+            "geometry_config": {},
+            "id": 152407,
+            "hotkey": ""
+        },
+        {
+            "title": "hill",
+            "shape": "bitmap",
+            "color": "#FF6600",
+            "geometry_config": {},
+            "id": 152462,
+            "hotkey": ""
+        },
+        {
+            "title": "hood",
+            "shape": "bitmap",
+            "color": "#0099FF",
+            "geometry_config": {},
+            "id": 152523,
+            "hotkey": ""
+        },
+        {
+            "title": "horse",
+            "shape": "bitmap",
+            "color": "#C00080",
+            "geometry_config": {},
+            "id": 152389,
+            "hotkey": ""
+        },
+        {
+            "title": "house",
+            "shape": "bitmap",
+            "color": "#FF09E0",
+            "geometry_config": {},
+            "id": 152419,
+            "hotkey": ""
+        },
+        {
+            "title": "hovel",
+            "shape": "bitmap",
+            "color": "#FF00FF",
+            "geometry_config": {},
+            "id": 152472,
+            "hotkey": ""
+        },
+        {
+            "title": "kitchen island",
+            "shape": "bitmap",
+            "color": "#00FF29",
+            "geometry_config": {},
+            "id": 152467,
+            "hotkey": ""
+        },
+        {
+            "title": "lake",
+            "shape": "bitmap",
+            "color": "#0ABED4",
+            "geometry_config": {},
+            "id": 152518,
+            "hotkey": ""
+        },
+        {
+            "title": "lamp",
+            "shape": "bitmap",
+            "color": "#E0FF08",
+            "geometry_config": {},
+            "id": 152430,
+            "hotkey": ""
+        },
+        {
+            "title": "land",
+            "shape": "bitmap",
+            "color": "#00C2FF",
+            "geometry_config": {},
+            "id": 152486,
+            "hotkey": ""
+        },
+        {
+            "title": "light",
+            "shape": "bitmap",
+            "color": "#FFAD00",
+            "geometry_config": {},
+            "id": 152474,
+            "hotkey": ""
+        },
+        {
+            "title": "microwave",
+            "shape": "bitmap",
+            "color": "#FF00EB",
+            "geometry_config": {},
+            "id": 152515,
+            "hotkey": ""
+        },
+        {
+            "title": "minibike",
+            "shape": "bitmap",
+            "color": "#A300FF",
+            "geometry_config": {},
+            "id": 152507,
+            "hotkey": ""
+        },
+        {
+            "title": "mirror",
+            "shape": "bitmap",
+            "color": "#DCDCDC",
+            "geometry_config": {},
+            "id": 152421,
+            "hotkey": ""
+        },
+        {
+            "title": "monitor",
+            "shape": "bitmap",
+            "color": "#005CFF",
+            "geometry_config": {},
+            "id": 152533,
+            "hotkey": ""
+        },
+        {
+            "title": "motorbike",
+            "shape": "bitmap",
+            "color": "#408080",
+            "geometry_config": {},
+            "id": 152390,
+            "hotkey": ""
+        },
+        {
+            "title": "mountain",
+            "shape": "bitmap",
+            "color": "#8FFF8C",
+            "geometry_config": {},
+            "id": 152413,
+            "hotkey": ""
+        },
+        {
+            "title": "neutral",
+            "shape": "bitmap",
+            "color": "#E0E0C0",
+            "geometry_config": {},
+            "id": 152391,
+            "hotkey": ""
+        },
+        {
+            "title": "ottoman",
+            "shape": "bitmap",
+            "color": "#FF9900",
+            "geometry_config": {},
+            "id": 152489,
+            "hotkey": ""
+        },
+        {
+            "title": "oven",
+            "shape": "bitmap",
+            "color": "#47FF00",
+            "geometry_config": {},
+            "id": 152509,
+            "hotkey": ""
+        },
+        {
+            "title": "painting",
+            "shape": "bitmap",
+            "color": "#FF0633",
+            "geometry_config": {},
+            "id": 152417,
+            "hotkey": ""
+        },
+        {
+            "title": "palm",
+            "shape": "bitmap",
+            "color": "#0052FF",
+            "geometry_config": {},
+            "id": 152466,
+            "hotkey": ""
+        },
+        {
+            "title": "path",
+            "shape": "bitmap",
+            "color": "#FF1F00",
+            "geometry_config": {},
+            "id": 152446,
+            "hotkey": ""
+        },
+        {
+            "title": "person",
+            "shape": "bitmap",
+            "color": "#C08080",
+            "geometry_config": {},
+            "id": 152392,
+            "hotkey": ""
+        },
+        {
+            "title": "pier",
+            "shape": "bitmap",
+            "color": "#4700FF",
+            "geometry_config": {},
+            "id": 152530,
+            "hotkey": ""
+        },
+        {
+            "title": "pillow",
+            "shape": "bitmap",
+            "color": "#00EBFF",
+            "geometry_config": {},
+            "id": 152451,
+            "hotkey": ""
+        },
+        {
+            "title": "plant",
+            "shape": "bitmap",
+            "color": "#CCFF04",
+            "geometry_config": {},
+            "id": 152414,
+            "hotkey": ""
+        },
+        {
+            "title": "plate",
+            "shape": "bitmap",
+            "color": "#00FFB8",
+            "geometry_config": {},
+            "id": 152532,
+            "hotkey": ""
+        },
+        {
+            "title": "plaything",
+            "shape": "bitmap",
+            "color": "#FF001F",
+            "geometry_config": {},
+            "id": 152499,
+            "hotkey": ""
+        },
+        {
+            "title": "pole",
+            "shape": "bitmap",
+            "color": "#3300FF",
+            "geometry_config": {},
+            "id": 152485,
+            "hotkey": ""
+        },
+        {
+            "title": "pool table",
+            "shape": "bitmap",
+            "color": "#FF4700",
+            "geometry_config": {},
+            "id": 152450,
+            "hotkey": ""
+        },
+        {
+            "title": "poster",
+            "shape": "bitmap",
+            "color": "#8FFF00",
+            "geometry_config": {},
+            "id": 152491,
+            "hotkey": ""
+        },
+        {
+            "title": "pot",
+            "shape": "bitmap",
+            "color": "#F500FF",
+            "geometry_config": {},
+            "id": 152516,
+            "hotkey": ""
+        },
+        {
+            "title": "pottedplant",
+            "shape": "bitmap",
+            "color": "#004000",
+            "geometry_config": {},
+            "id": 152393,
+            "hotkey": ""
+        },
+        {
+            "title": "radiator",
+            "shape": "bitmap",
+            "color": "#FFD600",
+            "geometry_config": {},
+            "id": 152536,
+            "hotkey": ""
+        },
+        {
+            "title": "railing",
+            "shape": "bitmap",
+            "color": "#FF3D06",
+            "geometry_config": {},
+            "id": 152432,
+            "hotkey": ""
+        },
+        {
+            "title": "refrigerator",
+            "shape": "bitmap",
+            "color": "#14FF00",
+            "geometry_config": {},
+            "id": 152444,
+            "hotkey": ""
+        },
+        {
+            "title": "river",
+            "shape": "bitmap",
+            "color": "#0BC8C8",
+            "geometry_config": {},
+            "id": 152454,
+            "hotkey": ""
+        },
+        {
+            "title": "road",
+            "shape": "bitmap",
+            "color": "#8C8C8C",
+            "geometry_config": {},
+            "id": 152404,
+            "hotkey": ""
+        },
+        {
+            "title": "rock",
+            "shape": "bitmap",
+            "color": "#FF290A",
+            "geometry_config": {},
+            "id": 152428,
+            "hotkey": ""
+        },
+        {
+            "title": "rug",
+            "shape": "bitmap",
+            "color": "#FF095C",
+            "geometry_config": {},
+            "id": 152422,
+            "hotkey": ""
+        },
+        {
+            "title": "runway",
+            "shape": "bitmap",
+            "color": "#99FF00",
+            "geometry_config": {},
+            "id": 152448,
+            "hotkey": ""
+        },
+        {
+            "title": "sand",
+            "shape": "bitmap",
+            "color": "#A09614",
+            "geometry_config": {},
+            "id": 152440,
+            "hotkey": ""
+        },
+        {
+            "title": "sconce",
+            "shape": "bitmap",
+            "color": "#0029FF",
+            "geometry_config": {},
+            "id": 152524,
+            "hotkey": ""
+        },
+        {
+            "title": "screen",
+            "shape": "bitmap",
+            "color": "#00CCFF",
+            "geometry_config": {},
+            "id": 152520,
+            "hotkey": ""
+        },
+        {
+            "title": "screen door",
+            "shape": "bitmap",
+            "color": "#00ADFF",
+            "geometry_config": {},
+            "id": 152452,
+            "hotkey": ""
+        },
+        {
+            "title": "sculpture",
+            "shape": "bitmap",
+            "color": "#FFFF00",
+            "geometry_config": {},
+            "id": 152522,
+            "hotkey": ""
+        },
+        {
+            "title": "sea",
+            "shape": "bitmap",
+            "color": "#0907E6",
+            "geometry_config": {},
+            "id": 152420,
+            "hotkey": ""
+        },
+        {
+            "title": "seat",
+            "shape": "bitmap",
+            "color": "#07FFE0",
+            "geometry_config": {},
+            "id": 152425,
+            "hotkey": ""
+        },
+        {
+            "title": "sheep",
+            "shape": "bitmap",
+            "color": "#804000",
+            "geometry_config": {},
+            "id": 152394,
+            "hotkey": ""
+        },
+        {
+            "title": "shelf",
+            "shape": "bitmap",
+            "color": "#FF0747",
+            "geometry_config": {},
+            "id": 152418,
+            "hotkey": ""
+        },
+        {
+            "title": "ship",
+            "shape": "bitmap",
+            "color": "#FFEB00",
+            "geometry_config": {},
+            "id": 152494,
+            "hotkey": ""
+        },
+        {
+            "title": "shower",
+            "shape": "bitmap",
+            "color": "#0085FF",
+            "geometry_config": {},
+            "id": 152535,
+            "hotkey": ""
+        },
+        {
+            "title": "sidewalk",
+            "shape": "bitmap",
+            "color": "#EBFF07",
+            "geometry_config": {},
+            "id": 152409,
+            "hotkey": ""
+        },
+        {
+            "title": "signboard",
+            "shape": "bitmap",
+            "color": "#FF0599",
+            "geometry_config": {},
+            "id": 152437,
+            "hotkey": ""
+        },
+        {
+            "title": "sink",
+            "shape": "bitmap",
+            "color": "#00A3FF",
+            "geometry_config": {},
+            "id": 152441,
+            "hotkey": ""
+        },
+        {
+            "title": "sky",
+            "shape": "bitmap",
+            "color": "#06E6E6",
+            "geometry_config": {},
+            "id": 152400,
+            "hotkey": ""
+        },
+        {
+            "title": "skyscraper",
+            "shape": "bitmap",
+            "color": "#8C8C8C",
+            "geometry_config": {},
+            "id": 152442,
+            "hotkey": ""
+        },
+        {
+            "title": "sofa",
+            "shape": "bitmap",
+            "color": "#00C000",
+            "geometry_config": {},
+            "id": 152395,
+            "hotkey": ""
+        },
+        {
+            "title": "stage",
+            "shape": "bitmap",
+            "color": "#5200FF",
+            "geometry_config": {},
+            "id": 152492,
+            "hotkey": ""
+        },
+        {
+            "title": "stairs",
+            "shape": "bitmap",
+            "color": "#FFE000",
+            "geometry_config": {},
+            "id": 152447,
+            "hotkey": ""
+        },
+        {
+            "title": "stairway",
+            "shape": "bitmap",
+            "color": "#1F00FF",
+            "geometry_config": {},
+            "id": 152453,
+            "hotkey": ""
+        },
+        {
+            "title": "step",
+            "shape": "bitmap",
+            "color": "#FF008F",
+            "geometry_config": {},
+            "id": 152512,
+            "hotkey": ""
+        },
+        {
+            "title": "stool",
+            "shape": "bitmap",
+            "color": "#00D6FF",
+            "geometry_config": {},
+            "id": 152501,
+            "hotkey": ""
+        },
+        {
+            "title": "stove",
+            "shape": "bitmap",
+            "color": "#33FF00",
+            "geometry_config": {},
+            "id": 152465,
+            "hotkey": ""
+        },
+        {
+            "title": "streetlight",
+            "shape": "bitmap",
+            "color": "#0047FF",
+            "geometry_config": {},
+            "id": 152479,
+            "hotkey": ""
+        },
+        {
+            "title": "swimming pool",
+            "shape": "bitmap",
+            "color": "#00B8FF",
+            "geometry_config": {},
+            "id": 152500,
+            "hotkey": ""
+        },
+        {
+            "title": "swivel chair",
+            "shape": "bitmap",
+            "color": "#0A00FF",
+            "geometry_config": {},
+            "id": 152469,
+            "hotkey": ""
+        },
+        {
+            "title": "table",
+            "shape": "bitmap",
+            "color": "#FF0652",
+            "geometry_config": {},
+            "id": 152412,
+            "hotkey": ""
+        },
+        {
+            "title": "tank",
+            "shape": "bitmap",
+            "color": "#00FFEB",
+            "geometry_config": {},
+            "id": 152513,
+            "hotkey": ""
+        },
+        {
+            "title": "television receiver",
+            "shape": "bitmap",
+            "color": "#00FFC2",
+            "geometry_config": {},
+            "id": 152481,
+            "hotkey": ""
+        },
+        {
+            "title": "tent",
+            "shape": "bitmap",
+            "color": "#70E0FF",
+            "geometry_config": {},
+            "id": 152505,
+            "hotkey": ""
+        },
+        {
+            "title": "toilet",
+            "shape": "bitmap",
+            "color": "#00FF85",
+            "geometry_config": {},
+            "id": 152459,
+            "hotkey": ""
+        },
+        {
+            "title": "towel",
+            "shape": "bitmap",
+            "color": "#FF0066",
+            "geometry_config": {},
+            "id": 152473,
+            "hotkey": ""
+        },
+        {
+            "title": "tower",
+            "shape": "bitmap",
+            "color": "#FFB8B8",
+            "geometry_config": {},
+            "id": 152476,
+            "hotkey": ""
+        },
+        {
+            "title": "trade name",
+            "shape": "bitmap",
+            "color": "#85FF00",
+            "geometry_config": {},
+            "id": 152514,
+            "hotkey": ""
+        },
+        {
+            "title": "traffic light",
+            "shape": "bitmap",
+            "color": "#2900FF",
+            "geometry_config": {},
+            "id": 152526,
+            "hotkey": ""
+        },
+        {
+            "title": "train",
+            "shape": "bitmap",
+            "color": "#80C000",
+            "geometry_config": {},
+            "id": 152396,
+            "hotkey": ""
+        },
+        {
+            "title": "tray",
+            "shape": "bitmap",
+            "color": "#29FF00",
+            "geometry_config": {},
+            "id": 152527,
+            "hotkey": ""
+        },
+        {
+            "title": "tree",
+            "shape": "bitmap",
+            "color": "#04C803",
+            "geometry_config": {},
+            "id": 152402,
+            "hotkey": ""
+        },
+        {
+            "title": "truck",
+            "shape": "bitmap",
+            "color": "#FF0014",
+            "geometry_config": {},
+            "id": 152475,
+            "hotkey": ""
+        },
+        {
+            "title": "tvmonitor",
+            "shape": "bitmap",
+            "color": "#004080",
+            "geometry_config": {},
+            "id": 152397,
+            "hotkey": ""
+        },
+        {
+            "title": "van",
+            "shape": "bitmap",
+            "color": "#A3FF00",
+            "geometry_config": {},
+            "id": 152493,
+            "hotkey": ""
+        },
+        {
+            "title": "vase",
+            "shape": "bitmap",
+            "color": "#00FFCC",
+            "geometry_config": {},
+            "id": 152525,
+            "hotkey": ""
+        },
+        {
+            "title": "wall",
+            "shape": "bitmap",
+            "color": "#787878",
+            "geometry_config": {},
+            "id": 152398,
+            "hotkey": ""
+        },
+        {
+            "title": "wardrobe",
+            "shape": "bitmap",
+            "color": "#07FFFF",
+            "geometry_config": {},
+            "id": 152429,
+            "hotkey": ""
+        },
+        {
+            "title": "washer",
+            "shape": "bitmap",
+            "color": "#B800FF",
+            "geometry_config": {},
+            "id": 152498,
+            "hotkey": ""
+        },
+        {
+            "title": "water",
+            "shape": "bitmap",
+            "color": "#3DE6FA",
+            "geometry_config": {},
+            "id": 152416,
+            "hotkey": ""
+        },
+        {
+            "title": "waterfall",
+            "shape": "bitmap",
+            "color": "#00E0FF",
+            "geometry_config": {},
+            "id": 152504,
+            "hotkey": ""
+        },
+        {
+            "title": "windowpane",
+            "shape": "bitmap",
+            "color": "#E6E6E6",
+            "geometry_config": {},
+            "id": 152406,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}

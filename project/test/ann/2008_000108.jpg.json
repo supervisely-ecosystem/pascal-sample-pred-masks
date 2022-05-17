@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 333,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 58746877,
+            "classId": 152399,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "building",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKKQCzByAwk/eLZPIEUW4BPiCuQ/v///9Kb8+8CWYwlQX7BDA7PbqQBOd6eLo4hFXOSExIm/D/OwPI14dP/egNpn0//8xkmvUkweywvcDLhwIEChjM/GNS0D6TIztjSPkFBl+dTgusbgaUJgiEH+NR+2it4rLjFzMNQ1yust1LfMhpoLIOnq5/LOqeEJgBQ2zXs",
+                "origin": [
+                    151,
+                    162
+                ]
+            }
+        },
+        {
+            "id": 58746876,
+            "classId": 152410,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "earth",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBg/ALEvozMQJEzd/lLgBRbgE+IK5D+////0pvz7wJZjCVBfsEMDs9upDEwMKV5ujiGVMx5e/N0720DAbYHhjUfJqquEJnqlseqqbj2wzSjMEepgLwoBwFlS76EU7PYTSNUOOrkajba81saL0qZ1ZXdw8JPBPh//tdMq+nyL159cnmzXKcuqrb+kH5i7c6pk8Llo/46xO7LM9Nx+cMUMf99xgL7xfaP57s9/7Lw4vK5+01/1pY8sur4qD9HT7eu8FfzD595EvYWfytuPp+f1D0/X18049PT16e5qjbHP/rbe/fFm33a7PEJ31VlKn//Of31hPvu+ttxyz5/9Wfft7T+s9n12B/TXpfbfIhtjn/XvUEn/sZ+9tNfWOOf62/5OT91eoOb/R27Vyxbqk4p2v/ed7Y/+5iW/O0/uxrjtM8XmP3vXCW75ufPhVznps//Wvp9w8vtx97XzttZcXae7/zCvzm/IuxvXTr+a+en2M3r1+/bdzecM8Xy/fzt/Ptq9tTXsTw8rf4mftmnmzUWjycvrdn2Y+9l9/nip9I/Of3y/fp+btwDMf2S+Sfbg/cFXNms/8ud3evm9D+3k7k51P9+Py4n4f/ruJhS8cXzUR9F4q9c1bY7uXf1rzVr474Unyl6rwEMktJ/Ud+m/lSfPn9O3YuaeU2n/UWuvJs6/3/tR+Of1+yD3q/6X6K5WPv/7fUV8/Xj58TJz397f27c7HmvrOf7e3Fe/eHFvTLuJ9Pd+Xvr/8vd0nX5vLiIPfS3/mn5C7+/z758mlkOBdx7fX+uneXe1392/4nYcln9pvrfH/GfXzE++/9m82X+Ww9nPlJfPv//pvg5Pz//evTm/1t9hun6mr/22D2Y+0/8bsf7AtZfr/2AyY/B09XPZZ1TQhMAL0BaMA==",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 58746875,
+            "classId": 152428,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "rock",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJyQCzMyAwk9ybo2wMptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDchw8XRxDKuYkJyQUJDA01Tuc+TG/8WDTz/+MbUAN9gyC9hc6qwQSgWx5tjqBg3zqMxyFEpoEl0x3/FfPfOHAfx4GsQ/Ggke0MzOBZjF4uvq5rHNKaAIAW/Az1A==",
+                "origin": [
+                    209,
+                    308
+                ]
+            }
+        },
+        {
+            "id": 58746874,
+            "classId": 152517,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "animal",
+            "bitmap": {
+                "data": "eJwBuQFG/olQTkcNChoKAAAADUlIRFIAAACSAAAAXgEDAAAA8p/fAgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFhSURBVHicjZXBjcQgDEUd5ZDLSJSQFraA1WRL2g6gNEphO+DIAcULJOyAv1eaf2KeHPsbA0M0amNPUgcniRbmUzLDzO5er6HERCJbWLhyeJvq77AWdH1s2+LgLnezUV5hNaFAHKt1oaSwXLy9w87WIzCoy4o/bv0KleZ2yWpzEmrMKazvuPAnWSZsJCqsTV1JJxqJhDVCPxGCfTwI2NMGOzLXqsaJXU7SyM6L5TEs9SMk7c2OL3siziHLhCz9uwM7lhBnzSu7ct+OsUi/RQaszIey38AxYVRY6LcRrMxxTmGELCuslx39OWSv9+HFksL+HJcai6ha2EmialG+tzAM7POeCU0yiNqc5IO2iGxNY19dVmajjWyWbFVY+Rae0Y3waTUKO7ziOAAz/APsUOIsY76dHfgzmXbwUlxHZBQU9r6+EC3wB1Ob9gino9Hj0PaCU68M56SNfYdTVGQVh/TdF7/AQGUKqgBqxAAAAABJRU5ErkJggkjoxGs=",
+                "origin": [
+                    177,
+                    152
+                ]
+            }
+        }
+    ]
+}

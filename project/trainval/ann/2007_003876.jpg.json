@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 382,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 58742559,
+            "classId": 152400,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "sky",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBg/ALEdYzMQBE/46pyIMUW4BPiCqT///+/9Ob8u0AWY0mQXzCDw7MbaUC2uaeLY0jFnLfXrPMOG/A0JLLJ2vzi2OdZuvTOgVtVuvl724qZ2WNtWMJc0otNZ6S0M/w15bjwgbGmo2lJyzWlChu5/uOPP6JQ/1v/8/3Se2a+vn4P3+sHX1Yv2VV/9uRb0081luf741by1K3nfOO544/zEv5f/a/c1993eTJr0+3pr5bO5vnzYPMbyR1/1zCy/Fll93OvWED0i6+pl5jY/mTpPij8t3p7z3n9+b28FlVvH0h88P7qfCFa6sKnaUwmexc2++bvaMqtt2vY/32+ov1pi+N7zgWcyJ8mfeXDV0GOH912TLUnps+5U3fxku/i29Pjmi3O3v4/P/rC/eZ/6i94uTHcTwR1/5g949lqVmvVjIPtwPBk8HT1c1nnlNAEAJLBv/4=",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 58742558,
+            "classId": 152482,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "airplane",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKeQKzByAwkO0RdE4AUW4BPiCuQ/v///9Kb8+8CWYwlQX7BDA7PbqQBOUs8XRxDKuaEXjzNe0SBhyXAXcbi0sEgrqWtl4K4VDeY8wlu/icwx5XJ9qHBNhGl6InfTp079Dvn1GxzNnnNE5wchZo/zwSlF+l6z/XzUdd6uq7xQLlKKtv6FQ89I7b6CkS5C/WZchSv83w660/3rmVt5z4eWcvR+fpYc6X1x6TiqDmFVl9/9S/WYfuy4eaLo0m+LR8V+zN2njJZw7q/w+yZu1fu/4aCXDn9sF+MApKTb857c+o5A8iDrn4u65wSmgDbS2Rx",
+                "origin": [
+                    93,
+                    97
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "PascalVOC Predictions Masks (Sample)",
+  "description": "726 sample ground truth images from PascalVOC dataset",
+  "type": "project",
+  "categories": [
+    "import",
+    "images",
+    "project"
+  ],
+  "icon": "https://i.imgur.com/RRowsu9.png",
+  "icon_cover": true
+}

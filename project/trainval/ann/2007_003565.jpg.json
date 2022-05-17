@@ -1,0 +1,28 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 58745759,
+            "classId": 152400,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "cxnt",
+            "createdAt": "2022-05-17T10:13:55.946Z",
+            "updatedAt": "2022-05-17T10:13:55.946Z",
+            "tags": [],
+            "classTitle": "sky",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBg/ALE5YzMQJFMG+39QIotwCfEFUj///9/6c35d4EsxpIgv2AGh2c30oCcJE8Xx5CKOW9PG/IyMHAwb/gZ3s2s1tS/pX6zuvD977UUo7/q++Pc7ojc5Ip+DrSNwdPVz2WdU0ITAF+lWOA=",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}
