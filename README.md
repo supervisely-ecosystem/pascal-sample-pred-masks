@@ -26,7 +26,7 @@
 
 `pascal_sample_pred_masks` is a sample project with the total of 726 images from PascalVOC and 4 datasets: `train`, `val`, `test` (and mixed `trainval`) subsets.
 
-![](https://i.imgur.com/wYzYJ2V.png)
+![](https://i.imgur.com/bJm1fD7.png)
 
 ## Download
 
