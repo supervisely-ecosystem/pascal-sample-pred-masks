@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/UdBujFN.png" width="250"/> <br>
 
-<img src="https://i.imgur.com/Lp99CaR.png" width="100"/> 
+<img src="https://i.imgur.com/cxk7g7u.png" width="100"/> 
 
 # PascalVOC Predictions Masks (Sample)
 
