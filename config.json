@@ -1,6 +1,6 @@
 {
   "name": "PascalVOC PRED Masks (Sample)",
-  "description": "726 sample predictions labeled images from PascalVOC dataset",
+  "description": "726 sample pred-labeled images",
   "type": "project",
   "categories": [
     "import",
