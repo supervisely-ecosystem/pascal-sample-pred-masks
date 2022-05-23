@@ -30,7 +30,7 @@
 
 ## Download
 
-Direct download: [zip archive](https://cloud.enterprise.supervise.ly/remote.php/webdav/apps/pascalvoc-sample-projects/pascal_sample_pred_masks.zip) (68 MB).
+Direct download: [zip archive](https://cloud.enterprise.supervise.ly/f/906657) (68 MB).
 
 ## Statistics
 
