@@ -1,8 +1,8 @@
 <div align="center" markdown> 
 
-<img src="https://i.imgur.com/UdBujFN.png" width="250"/> <br>
+<img src="media/eco.png" width="250"/> <br>
 
-<img src="https://i.imgur.com/cxk7g7u.png" width="100"/> 
+<img src="media/logo.png" width="100"/> 
 
 # PascalVOC Predictions Masks (Sample)
 
@@ -26,7 +26,7 @@
 
 `pascal_sample_pred_masks` is a sample project with the total of 726 images from PascalVOC and 4 datasets: `train`, `val`, `test` (and mixed `trainval`) subsets.
 
-![](https://i.imgur.com/bJm1fD7.png)
+![](media/ov1.png)
 
 ## Download
 
@@ -36,8 +36,8 @@ Direct download: [zip archive](https://cloud.enterprise.supervise.ly/f/906657) (
 
 Project contains 4 datasets with 726 images in it, with a total of 8163 annotated objects. 
 
-![](https://i.imgur.com/rKumMF5.png)
+![](media/st1.png)
 
 ## Examples
 
-![](https://i.imgur.com/JHtK0ST.png) ![](https://i.imgur.com/u6cdDat.png) 
+![](media/ex1.png) ![](media/ex2.png) 
