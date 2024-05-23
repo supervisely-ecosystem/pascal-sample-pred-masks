@@ -30,7 +30,7 @@
 
 ## Download
 
-Direct download: [zip archive](https://cloud.enterprise.supervise.ly/f/906657) (68 MB).
+Direct download: [zip archive](https://github.com/supervisely-ecosystem/pascal-sample-pred-masks/releases/download/v1.0.0/project.zip) (68 MB).
 
 ## Statistics
 
